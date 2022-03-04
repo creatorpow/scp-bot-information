@@ -1,1 +1,0 @@
-# scp-bot-information
